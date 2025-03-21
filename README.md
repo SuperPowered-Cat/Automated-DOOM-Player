@@ -27,6 +27,7 @@ The goal is to develop agents that learn to play DOOM through reinforcement lear
 
 The repository is organized as follows:
 
+```
 doom-agent-project/
 ├── README.md             # This file
 ├── LICENSE               # Project license
@@ -47,7 +48,7 @@ doom-agent-project/
 │   ├── logs_basic/
 │   ├── logs_defend/
 │   └── logs_third/
-
+```
 ---
 
 ## Installation and Setup
