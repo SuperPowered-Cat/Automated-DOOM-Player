@@ -65,7 +65,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/doom-agent-project.git
+   git clone https://github.com/SuperPowered-Cat/Automated-DOOM-Player.git
    cd doom-agent-project
    ```
 2: Create a Virtual Environment (Recommended)
