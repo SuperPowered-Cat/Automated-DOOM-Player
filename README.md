@@ -6,7 +6,7 @@ Welcome to the Doom Agent Project! This repository contains code, notebooks, and
 - **Deadly Corridor** (with cumulative learning and reward shaping)
 
 The goal is to develop agents that learn to play DOOM through reinforcement learning, and to provide a clean, reproducible project structure for training, evaluation, and further development.
-
+#### Created by Om Thakur and Kumar Satyanshu
 ---
 
 ## Table of Contents
